@@ -1,0 +1,6 @@
+c:\users\dragon\documents\visual studio 2015\Projects\Super Simple Stocks\Super Simple Stocks\bin\Debug\Super Simple Stocks.exe.config
+c:\users\dragon\documents\visual studio 2015\Projects\Super Simple Stocks\Super Simple Stocks\obj\Debug\Super Simple Stocks.csprojResolveAssemblyReference.cache
+c:\users\dragon\documents\visual studio 2015\Projects\Super Simple Stocks\Super Simple Stocks\bin\Debug\Super Simple Stocks.exe
+c:\users\dragon\documents\visual studio 2015\Projects\Super Simple Stocks\Super Simple Stocks\bin\Debug\Super Simple Stocks.pdb
+c:\users\dragon\documents\visual studio 2015\Projects\Super Simple Stocks\Super Simple Stocks\obj\Debug\Super Simple Stocks.exe
+c:\users\dragon\documents\visual studio 2015\Projects\Super Simple Stocks\Super Simple Stocks\obj\Debug\Super Simple Stocks.pdb
